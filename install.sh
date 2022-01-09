@@ -16,6 +16,7 @@ main () {
     chmod 757 dashboard/uploads
     chmod 775 dashboard/xss
     echo "CREATE DATABASE wel;" | mysql
+    printf "\033[0;34m[*] \033[0;37mDatabase password\n"
     mysql -p wel < db.sql
 }
 
