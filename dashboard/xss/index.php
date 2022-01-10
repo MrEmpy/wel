@@ -21,15 +21,15 @@
                             </div>
                         </div>
                         <div class="form-group">
-                            <label for="inputPassword" class="col-lg-2 control-label">Password</label>
+                            <label for="inputPassword" class="col-lg-2 control-label">Senha</label>
                             <div class="col-lg-10">
                                 <input class="form-control" name="password" placeholder="0123456" type="password">
                             </div>
                         </div>
                         <div class="form-group">
                             <div class="col-lg-10 col-lg-offset-2">
-                                <button class="btn btn-default">Cancel</button>
-                                <button type="submit" class="btn btn-primary" style="transform: translateX(310px);">Submit</button>
+                                <button class="btn btn-default">Cancelar</button>
+                                <button type="submit" class="btn btn-primary" style="transform: translateX(310px);">Logar</button>
                                 </div>
                         </div>
                     </div>
