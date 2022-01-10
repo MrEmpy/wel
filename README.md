@@ -6,6 +6,17 @@
 
 ## Install:
 
+### Requirements:
+
+```
+$ sudo apt install php-mysqli -y
+$ sudo apt install php -y
+$ sudo apt-get install mariadb-server
+$ sudo service mysql start
+```
+
+### Start:
+
 Go to the web root directory (/var/www/html).
 
 ```
