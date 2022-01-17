@@ -9,7 +9,7 @@
 ### Requirements:
 
 ```
-$ sudo apt install php-mysqli -y
+$ sudo apt install php-mysql -y
 $ sudo apt install php -y
 $ sudo apt-get install mariadb-server
 $ sudo service mysql start
